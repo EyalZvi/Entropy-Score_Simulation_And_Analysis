@@ -10,6 +10,7 @@ Differentiating between DDoS and Flash Crowd is crucial do to the fact that filt
 The article we chose to implement proposes a new technique to detect DDOS attacks and differentiate them from Flash Crowd: **Entropy – Score**
 
 First, the packets are characterized using an entropy-based method.
+
 Then, by using a score-based method the malicious packets are filtered and differentiated from the Flash Crowd ones.
 
 As we can see from our results of 89% decision correctness, we can very efficiently differentiate between DDOS attacks Flash Crowd, also, normal traffic is never mistaken for both.
