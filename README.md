@@ -12,7 +12,7 @@ First, the packets are characterized using an entropy-based method.
 Then, by using a score-based method the malicious packets are filtered and differentiated from the Flash Crowd ones.
 
 As we can see from our results of 89% decision correctness, we can very efficiently differentiate between DDOS attacks Flash Crowd, also, normal traffic is never mistaken for both.
-As seen in our results, the algorithm has an extremely low False – Positive rate, 0% in our simulation.
+As seen in our results, the algorithm has an extremely low False – Positive rate, 0% in our simulation.
 
 ![image](https://user-images.githubusercontent.com/92316457/185896268-f2a0c240-63cc-48d7-a7ce-9b02d1233aa9.png)
 
