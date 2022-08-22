@@ -1,0 +1,34 @@
+file 9346 1656015413                                            
+version 2
+run General-0-20220623-23:16:48-12592
+attr configname General
+attr datetime 20220623-23:16:48
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Final_Lab
+attr processid 12592
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 123456
+param **.num_of_n_hosts 50
+param **.num_of_ddos_hosts 15
+param **.num_of_fc_hosts 40
+
+vector 0 Final_Lab.center_point Entropy:vector ETV
+attr interpolationmode none
+vector 1 Final_Lab.center_point Score50204992:vector ETV
+attr interpolationmode none
+vector 2 Final_Lab.center_point Score50204992:vector ETV
+attr interpolationmode none
+vector 3 Final_Lab.center_point Score50204992:vector ETV
+attr interpolationmode none
+0	808 2164 109 2642 0.00108322246 10.000932772198 56 0 100 290.98785209656 11666.386750381
+1	2972 2124 976 2642 5.000061269962 10.000932772198 82 0 0 0 0
+2	5096 2124 976 2642 5.000061269962 10.000932772198 82 0 0 0 0
+3	7220 2124 976 2642 5.000061269962 10.000932772198 82 0 0 0 0
+
