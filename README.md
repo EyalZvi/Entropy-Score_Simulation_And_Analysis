@@ -15,6 +15,8 @@ Then, by using a score-based method the malicious packets are filtered and diffe
 As we can see from our results of 89% decision correctness, we can very efficiently differentiate between DDOS attacks Flash Crowd, also, normal traffic is never mistaken for both.
 As seen in our results, the algorithm has an extremely low False – Positive rate, 0% in our simulation.
 
+**Results:**
+
 ![image](https://user-images.githubusercontent.com/92316457/185896268-f2a0c240-63cc-48d7-a7ce-9b02d1233aa9.png)
 
 ![image](https://user-images.githubusercontent.com/92316457/185896298-59432970-8349-4652-81bf-6f836d31a738.png)
