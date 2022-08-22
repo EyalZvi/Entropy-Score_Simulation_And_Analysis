@@ -7,7 +7,7 @@ Flash crowd is an unexpected surge in visitors to a website, usually because of 
 
 Differentiating between DDoS and Flash Crowd is crucial do to the fact that filtering Flash Crowd can lead to loss of business or credibility.
 
-The article we chose to implement proposes a new technique to detect DDOS attacks and differentiate them from Flash Crowd:**Entropy – Score**
+The article we chose to implement proposes a new technique to detect DDOS attacks and differentiate them from Flash Crowd: **Entropy – Score**
 
 First, the packets are characterized using an entropy-based method.
 Then, by using a score-based method the malicious packets are filtered and differentiated from the Flash Crowd ones.
