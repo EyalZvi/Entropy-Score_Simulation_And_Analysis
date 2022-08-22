@@ -1,5 +1,5 @@
 # Entropy Score Simulation And Analysis
-This project is an implementation of the Entropy-Score method: Detection of DDOS attacks and Flash Crowd and differentiating between them
+**This project is an implementation of the Entropy-Score method**: Detection of DDOS attacks and Flash Crowd and differentiating between them
 
 Although there are plenty of different techniques designed to detect DDOS attacks, they all have their limitations, one of which is the inability to differentiate between Flash Crowd and DDOS attacks.
 
